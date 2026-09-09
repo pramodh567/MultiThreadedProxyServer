@@ -60,7 +60,7 @@ This project is implemented using `C` and Parsing of HTTP referred from <a href 
 ## How to Run
 
 ```bash
-$ git clone https://github.com/pramodh567/MultiThreadedProxyServer/.git
+$ git clone https://github.com/pramodh567/MultiThreadedProxyServer.git
 $ cd MultiThreadedProxyServerClient
 $ make all
 $ ./proxy <port no.>
